@@ -58,5 +58,5 @@ for (let _data in data) {
 // for of loop was introduced in the later versions of ES6
 // It allows to iterate over iterable objects like arrays, strings, maps, sets etc
 for (let value of Object.keys(data)) {
-    console.log('response in for of ', value);
+    console.log('response in for of ', data[value]);
 }
