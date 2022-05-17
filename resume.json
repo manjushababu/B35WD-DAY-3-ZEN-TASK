@@ -1,0 +1,44 @@
+{
+    "firstName": "Manjusha",
+    "lastName": "Babu",
+    "place": "Coimbatore",
+    "email": "thisismanjubrucey@gmail.com",
+    "phoneNo": "8667270192",
+    "education": {
+        "X": {
+            "schoolName": "S.B.O.A Mat Hr Sec School",
+            "marksObtained": 473,
+            "percentage": "95%"
+        },
+        "XII": {
+            "schoolName": "S.B.O.A Mat Hr Sec School",
+            "marksObtained": 1122,
+            "percentage": "93%"
+        },
+        "BE": {
+            "group": "Computer Science and Engineering",
+            "collegeName": "Karpagam College of Engineering",
+            "cgpa": 9.1,
+            "percentage": "91%"
+        }
+    },
+    "hobbies": [
+        "Wall art",
+        "Designing",
+        "Baking",
+        "Doodling",
+        "Singing"
+    ],
+    "extraCurriculam": [
+        "Football Zonal level winners",
+        "Football District 2nd - interzonal level",
+        "Holding a completion certificate of Deutsch A1 level"
+    ],
+    "personality": [
+        "Innovative",
+        "Hardworking",
+        "Creative",
+        "Team work",
+        "Positive"
+    ]
+}
